@@ -1,0 +1,23 @@
+{
+  "name": "vibely",
+  "version": "1.0.0",
+  "description": "Helping artists grow and people dance",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VibelyApp/Vibely.git"
+  },
+  "author": "will reynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VibelyApp/Vibely/issues"
+  },
+  "homepage": "https://github.com/VibelyApp/Vibely#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
